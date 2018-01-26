@@ -7,7 +7,7 @@ function addElementToBeginningOfArray(array, element) {
 
 var cities = ["foo", "San Francisco"];
 
-cities.unshift("Miami"...);
+cities.unshift("Miami");
 
 
 }
