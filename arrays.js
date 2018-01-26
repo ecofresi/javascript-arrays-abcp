@@ -6,7 +6,7 @@ console.log(chocolateBars)
 
 function addElementToBeginningOfArray(arry, element)
 
-var cities = ["New York", "San Francisco"]
+var cities = ["New York", "San Francisco"];
 
 cities.unshift("Philadelphia")
 
