@@ -1,6 +1,6 @@
 //TODO1
 
-var chocolateBars = new Array('snickers, hundred grand, kitkat, and skittles')
+var chocolateBars = new Array['snickers, hundred grand, kitkat, and skittles']
 
 return chocolateBars
 
